@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 #-*- coding: utf-8 -*-
-#github.com/AngelSecurityTeam/Cam-Hackers
+#Redesigned by Anonymous
+#Credit:teamangle
 
 import requests, re , colorama
 colorama.init()
